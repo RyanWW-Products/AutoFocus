@@ -1,0 +1,14 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+
+# Editor and operating system files
+.vs/
+Thumbs.db
+.DS_Store
+
+# Office lock files
+~$*
